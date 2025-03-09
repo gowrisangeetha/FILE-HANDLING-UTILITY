@@ -117,3 +117,8 @@ File deleted: copy_example.txt
 Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/642ac0d9-efad-4168-8e58-48c21aa15f52)
+
